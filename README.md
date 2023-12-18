@@ -3,14 +3,14 @@
 
 O projeto foi padronizado com create-react-app.
 
-## DEPENDÊNCIAS DE INSTALAÇÃO
+## Instalações necessárias
 ```javascript
 yarn install
 ```
-### USO
+### Utilização
 Os seguintes comandos estão disponíveis em seu projeto:
 ```bash
-# Comece para o desenvolvimento
+# Iniciar o projeto
 yarn start
 
 # Basta construir a versão dist e copiar os arquivos estáticos

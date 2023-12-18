@@ -1,5 +1,5 @@
 {
-  "name": "Pac-Man Game",
+  "name": "pacman",
   "version": "1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
